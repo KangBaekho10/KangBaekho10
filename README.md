@@ -40,7 +40,7 @@
 <h3 align="center"> ⚡ Git Summury ⚡ </h3>
 <div align="center">
   
-[![Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangBaekho10&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/KangBaekho10/github-readme-stats) 
+[![Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangBaekho10&count_private=true&include_all_commits=true&show_icons=true&theme=blue)](https://github.com/KangBaekho10/github-readme-stats) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangBaekho10&layout=compact)
 
 </div>
