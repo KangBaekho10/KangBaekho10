@@ -5,7 +5,7 @@
 </div>
 
 </br>
-<h3 align="center"> ✨ Tech Stack ✨ </h3>
+<h3 align="center"> 🌱 Tech Stack 🌱 </h3>
 <div align="center">
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
