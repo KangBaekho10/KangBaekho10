@@ -5,7 +5,7 @@
 </div>
 
 </br>
-<h3 align="center"> 🌱 Tech Stack 🌱 </h3>
+<h3 align="center"> 🌱 Tech Stack  </h3>
 <div align="center">
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -17,7 +17,7 @@
 </div>
 
 </br>
-<h3 align="center"> 🛠 Tools 🛠 </h3>
+<h3 align="center"> 🛠 Tools  </h3>
 <div align="center">
   
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -28,7 +28,7 @@
 </div>
 
 </br>
-<h3 align="center">📫 Social 📫</h3>
+<h3 align="center">📫 Social </h3>
 <div align="center">
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xodhks6740@gmail.com)](mailto:xodhks6740@gmail.com)
@@ -37,7 +37,7 @@
 </div>
 
 </br>
-<h3 align="center"> ⚡ Git Summury ⚡ </h3>
+<h3 align="center"> 🔭 Git Summury  </h3>
 <div align="center">
   
 [![Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangBaekho10&count_private=true&include_all_commits=true&show_icons=true&theme=blue)](https://github.com/KangBaekho10/github-readme-stats) 
